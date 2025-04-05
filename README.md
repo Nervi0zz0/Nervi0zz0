@@ -5,7 +5,7 @@
 
   <p>
     <strong>Analista de Ciberseguridad | Blue Teamer | Defensor Digital</strong><br>
-    <em>Especializado en CSOC, Threat Hunting y Respuesta a Incidentes en Madrid, España</em> 🇪🇸<br>
+    <em>Trabajo en CSOC como nivel 1,  resido en Madrid, España</em> 🇪🇸<br>
     🛡️ Apasionado por fortalecer la postura de seguridad y proteger activos digitales. 🛡️
   </p>
 
