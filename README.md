@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="URL_DE_TU_BANNER_AQUI" alt="Banner del Perfil de Nervi0zz0" width="100%"/>
 
   <h1>¡Hola! 👋 Soy Nervi0zz0</h1>
 
