@@ -38,7 +38,7 @@ Como **Analista de Ciberseguridad Nivel 1** en un **CSOC**, mi día a día se ce
 
 ### 🚀 Mis Proyectos Destacados
 
-*(¡No olvides PINEAR tus mejores repositorios en tu perfil principal de GitHub!)*
+
 
 <table width="100%">
   <tr>
